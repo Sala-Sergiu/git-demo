@@ -4,6 +4,4 @@ standing strong
 on this chosen battle field
 /c/Users/Utilizator/repos/git-demo
 
-new verse
------------------
-
+feature branch verse
